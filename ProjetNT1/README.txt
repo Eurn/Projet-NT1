@@ -1,7 +1,3 @@
-/*J'avoue que je m'y suis pris un peu tard et j'ai pas vraiment d'excuses... (réalisé en 2 jours)*/ 
-/*Du coup le projet est pas fou (voir ridicule) et comporte plusieurs petits bugs.*/
-/*Je suis désolé de ne pas avoir trop pris au sérieux ce projet. J'aurais pu mieux faire*/
-
 
 PROJET: Musée de Paris
 
